@@ -2,3 +2,4 @@ build/
 out/
 generated/
 local.properties
+bundle.js
