@@ -15,4 +15,6 @@ npm start
 
 它会在浏览器中打开相应的地址。在本地修改了kotlin文件，会自动生效，感觉很不错。
 
+![demo](./images/demo.jpg)
+
 更多详情参看：<./README_ori.md>
