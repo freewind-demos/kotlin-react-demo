@@ -18,9 +18,7 @@ apply plugin: 'kotlin2js'
 
 sourceSets {
     main {
-        kotlin {
-            srcDir 'src/'
-        }
+        kotlin.srcDirs += ['src']
     }
 }
 
